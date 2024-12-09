@@ -23,8 +23,5 @@ This project demonstrates advanced data analysis techniques applied to sales and
 - `Customer_Segmentation_Clusters.png`: Cluster visualization.
 - `ROI_by_Region.png`: ROI by region bar chart.
 
-## How to Run the Script
-1. Clone this repository to your local machine:
-   ```bash
-   git clone <repository-link>
+
 
