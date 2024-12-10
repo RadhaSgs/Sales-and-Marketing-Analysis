@@ -1,0 +1,7 @@
+CustomerID,Age,Gender,AnnualIncome,SpendingScore,Region,CampaignResponse,Sales,CampaignCost
+1,25,Female,40000,40,North,1,1000,100
+2,34,Male,60000,70,South,0,2000,200
+3,45,Female,50000,60,East,1,1500,150
+4,29,Male,80000,80,West,0,3000,300
+5,50,Female,30000,30,North,0,800,80
+6,40,Male,70000,90,East,1,2500,250
